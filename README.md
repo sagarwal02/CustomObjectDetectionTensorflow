@@ -1,1 +1,2 @@
 # CustomObjectDetectionTensorflow
+This is a python program used for custom object detection using Tensorflow. You can find this implementation in our android app (SkySpotter) for @ Brother Hackathon 2019. 
